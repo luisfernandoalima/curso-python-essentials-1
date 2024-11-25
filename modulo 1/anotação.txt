@@ -1,0 +1,5 @@
+--Oue faz uma linguagem?
+    -Alfabeto;
+    -Dicionário;
+    -Sintaxe;
+    -Semântica.
