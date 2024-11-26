@@ -3,3 +3,7 @@
     -Dicionário;
     -Sintaxe;
     -Semântica.
+
+--Compilação vs. Interpretação
+    -Compilação: O código é convertido para linguagem de máquina. Pode ser compartilhado após a compilação.
+    -Interpretação: O código é "traduzido", quem traduz é o interpretador. Se compartilhado, o usuário final precisa de um interpretador para o programa funcionar.
